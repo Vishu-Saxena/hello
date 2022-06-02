@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#num{
+  border: 3px blue solid;
+  margin: auto;
+  margin-top: 20%;
+  width: 60%;
+}
+.btnbx{
+  margin: auto;
+  width: 60%;
+  display: flex;
+}
+p{
+  margin-right: 2%;
+  font-weight:700;
+  font-family: sans-serif;
+  color: blue;
+}
+.btn{
+  padding: 0,5px;
+}
+.container{
+  border: blue 1px solid;
+  border-radius: 15px;
+  height: 80%;
+  margin-top: 2rem;
+  background-color: lightblue;
+  padding-bottom: 13%;
+}
